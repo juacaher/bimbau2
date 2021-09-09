@@ -1,0 +1,11 @@
+node_modules/
+cypress/screenshots/
+cypress/videos/
+mochawesome-report/
+
+package-lock.json
+<<<<<<< HEAD
+*.log
+=======
+*.log
+>>>>>>> b97617ed8eeaf50a74ad61712f857fd4ca988bb0

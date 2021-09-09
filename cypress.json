@@ -1,0 +1,13 @@
+
+{
+    "chromeWebSecurity": false,
+    "waitTime": 4000,
+    "ignoreTestFiles": "*.js",
+    "testFiles": "**/*.{feature,features}",
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "overwrite": false,
+        "html": true,
+        "json": true
+    }
+}
